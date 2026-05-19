@@ -1,6 +1,9 @@
 # concurrent-game-server
 Concurrent multiplayer Linux game server developed using C++, POSIX threads, shared memory, IPC, and process synchronization.
 
+## Demo Video
+https://youtu.be/0UzytMTj5yA
+
 ## Features
 - Hybrid concurrency model using fork() and pthreads
 - Shared memory synchronization
